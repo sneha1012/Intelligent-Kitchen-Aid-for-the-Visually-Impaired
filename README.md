@@ -22,7 +22,8 @@ The project consists of several scripts to convert datasets, replace class names
 2.replace_class_names: Replaces class names in annotations with numerical labels.
 3.train_yolo_model: Trains the YOLO model with the given dataset.
 
-## Multiview RGB-D Dataset : <img width="611" alt="Screenshot 2023-11-29 at 7 53 39 PM" src="https://github.com/sneha1012/Intelligent-Kitchen-Aid-for-the-Visually-Impaired/assets/79008130/892cddc9-4dde-43e4-b125-70a753a47467">
+## Multiview RGB-D Dataset : 
+<img width="611" alt="Screenshot 2023-11-29 at 7 53 39 PM" src="https://github.com/sneha1012/Intelligent-Kitchen-Aid-for-the-Visually-Impaired/assets/79008130/892cddc9-4dde-43e4-b125-70a753a47467">
 
 
 ## Object Detection Looks Like: 
